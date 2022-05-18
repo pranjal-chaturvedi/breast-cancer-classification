@@ -3,7 +3,7 @@
 In this case study, the goal is to classify the tumours into malignant (cancerous) or benign (non-cancerous) using the features extracted from the digitised image of a fine needle aspirate (FNA) of a breast mass (for more details, see 'About the dataset' section below).
 
 ### The Approach
-In this particular problem, various classification machine learning models can be used. When chosing the specific model, there are various factors to take into consideration like the criticality of the problem, architectural choice etc. In this instance, Support Vector Machine (Classification) algorithm is used. There are various advantages and disadvantages for using SVM (which is detailed in this StackExchange post:  https://stats.stackexchange.com/questions/24437/advantages-and-disadvantages-of-svm). It can also help when visualizing the data to get a better understanding.
+In this particular problem, various classification machine learning models can be used. When chosing the specific model, there are various factors to take into consideration like the criticality of the problem, architectural choice etc. In this instance, Support Vector Machine (Classification) algorithm is used. There are various advantages and disadvantages for using SVM (which is detailed in this StackExchange post:  https://stats.stackexchange.com/questions/24437/advantages-and-disadvantages-of-svm). It can also help when visualising the data to get a better understanding.
 
 ### About the dataset:
 The dataset is sourced from University of California Irwine (UCIrwine). Features are computed from a digitised image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
