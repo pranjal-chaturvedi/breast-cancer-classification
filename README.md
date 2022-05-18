@@ -20,6 +20,13 @@ The following are the features available:
 * Symmetry
 * Fractal dimension ("coastline approximation" - 1)
 
+No. of instances: 569.
+Class Distribution: 212 Malgnant, 357 Benign.
+
+Target class:
+* Malignant
+* Benign
+
 This dataset is available directly from Python's Scikit-Learn library.
 
 Dataset source: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
