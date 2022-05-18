@@ -9,16 +9,16 @@ In this particular problem, various classification machine learning models can b
 The dataset is sourced from University of California Irwine (UCIrwine). Features are computed from a digitised image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
 
 The following are the features available:
-a) Radius (mean of distances from center to points on the perimeter)
-b) Texture (standard deviation of gray-scale values)
-c) Perimeter
-d) Area
-e) Smoothness (local variation in radius lengths)
-f) Compactness (perimeter^2 / area - 1.0)
-g) Concavity (severity of concave portions of the contour)
-h) Concave points (number of concave portions of the contour)
-i) Symmetry
-j) Fractal dimension ("coastline approximation" - 1)
+* Radius (mean of distances from center to points on the perimeter)
+* Texture (standard deviation of gray-scale values)
+* Perimeter
+* Area
+* Smoothness (local variation in radius lengths)
+* Compactness (perimeter^2 / area - 1.0)
+* Concavity (severity of concave portions of the contour)
+* Concave points (number of concave portions of the contour)
+* Symmetry
+* Fractal dimension ("coastline approximation" - 1)
 
 This dataset is available directly from Python's Scikit-Learn library.
 
